@@ -1,0 +1,14 @@
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\networking.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\model.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\services.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\obj\Debug\networking.csprojAssemblyReference.cache
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\obj\Debug\networking.csproj.CoreCompileInputs.cache
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\obj\Debug\networking.csproj.CopyComplete
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\obj\Debug\networking.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\networking.dll.config
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\networking.dll
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\model.dll
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\services.dll
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\model.dll.config
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\bin\Debug\services.dll.config
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\networking\obj\Debug\networking.dll

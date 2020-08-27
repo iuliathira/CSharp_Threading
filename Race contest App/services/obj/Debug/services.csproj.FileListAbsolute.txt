@@ -1,0 +1,11 @@
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\services.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\model.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\obj\Debug\services.csprojAssemblyReference.cache
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\obj\Debug\services.csproj.CoreCompileInputs.cache
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\obj\Debug\services.csproj.CopyComplete
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\obj\Debug\services.pdb
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\services.dll.config
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\services.dll
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\model.dll
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\bin\Debug\model.dll.config
+F:\Chestii Iulia\Materiale facultate\Sem4\MPP\ThreadingC#\services\obj\Debug\services.dll
